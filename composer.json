@@ -16,7 +16,7 @@
     "type": "library",
     "require": {
         "php": ">=5.6",
-        "illuminate/support": "5.8.*",
+        "illuminate/support": "5.5.*",
         "guzzlehttp/guzzle": "6.*",
         "google/apiclient": "2.2.*"
     },
